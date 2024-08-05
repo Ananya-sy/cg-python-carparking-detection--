@@ -1,4 +1,4 @@
-# cg-python-carparking-detection--
+# cg-python-carparking-space-detection--
 The car parking space detection project  a computer vision system designed to detect the availability of parking spaces in a parking lot in real-time. The system is based on the state-of-the-art object detection algorithm and requires a dataset of parking lot images with labeled parking spaces.
 
 Project Overview
